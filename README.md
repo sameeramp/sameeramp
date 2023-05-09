@@ -1,7 +1,6 @@
 ### Hi there 👋
 https://www.linkedin.com/in/sameera-mp-4b236320b/
-https://protfolio-sameeramp.netlify.app/
-https://sprightly-bonbon-71c506.netlify.app/
+https://sameera-mp-personal-site.netlify.app
 <!--
 **sameeramp/sameeramp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
