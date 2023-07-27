@@ -10,7 +10,7 @@ Hi 👋, I'm Sameera M P<br>A passionate Full-Stack Developer from India<br><br>
   <img src="https://shorturl.at/cLQU9" alt="LeetCode" width="30" height="30" />
 </a>
 <a href="https://www.hackerrank.com/sameeramp2000?hr_r=1" target="_blank">
-  <img src="https://shorturl.at/eiotY" alt="HackerRank" width="30" height="30" />
+  <img src="https://shorturl.at/guvXY" alt="HackerRank" width="30" height="30" />
 </a>
 
 # 💻 Tech Stack:
