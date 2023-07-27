@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sameera M P<br>A passionate Full-Stack Developer from India<br><br>🔭 I’m currently working as a  Full Stack Developer<br>🌱 I’m currently learning React Native and Next.js<br>📫 How to reach me sameeramp2000@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/17hjAITP41km6Cv4GVLTd7vdkBCBdUQjD/view?usp=sharing
+Hi 👋, I'm Sameera M P<br>A passionate Full-Stack Developer from India<br><br>🔭 I’m currently working as a  Full Stack Developer<br>🌱 I’m currently learning React Native and Next.js<br>📫 How to reach me sameeramp2000@gmail.com<br>👨‍💻 All of my projects are available at https://protfolio-sameeramp.netlify.app/<br>📄 Know about my experiences https://drive.google.com/file/d/17hjAITP41km6Cv4GVLTd7vdkBCBdUQjD/view?usp=sharing
 
 
 ## 🌐 Socials:
@@ -7,10 +7,10 @@ Hi 👋, I'm Sameera M P<br>A passionate Full-Stack Developer from India<br><br>
 
 # Coding Platforms:
 <a href="https://leetcode.com/sameeramp2000/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
+  <img src="https://shorturl.at/cLQU9" alt="LeetCode" width="40" height="40" />
 </a>
 <a href="https://www.hackerrank.com/sameeramp2000?hr_r=1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
+  <img src="https://shorturl.at/eiotY" alt="HackerRank" width="40" height="40" />
 </a>
 
 # 💻 Tech Stack:
