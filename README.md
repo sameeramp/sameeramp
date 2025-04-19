@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sameera M P<br>A passionate Full-Stack Developer from India<br><br>🔭 I’m currently working as a  Full Stack Developer<br>🌱 I’m currently learning React Native and Next.js<br>📫 How to reach me sameeramp2000@gmail.com<br>👨‍💻 All of my projects are available at https://protfolio-sameeramp.netlify.app/<br>📄 Know about my experiences https://drive.google.com/file/d/1YCq0B-0Llgou9pcxrh1KaojolYqQ2OtR/view?usp=sharing
+Hi 👋, I'm Sameera M P<br>A passionate Full-Stack Developer from India<br><br>🔭 I’m currently working as a  Full Stack Developer<br>🌱 I’m currently learning React Native and Next.js<br>📫 How to reach me sameeramp2000@gmail.com<br>👨‍💻 All of my projects are available at [https://protfolio-sameeramp.netlify.app](https://680376fd3d49e703870772c8--beamish-beijinho-de9268.netlify.app/)/<br>📄 Know about my experiences https://drive.google.com/file/d/1YCq0B-0Llgou9pcxrh1KaojolYqQ2OtR/view?usp=sharing
 
 
 ## 🌐 Socials:
